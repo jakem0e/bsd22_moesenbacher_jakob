@@ -13,6 +13,10 @@ Starten Sie das Programm danach erfolgt die eingabe über die Konsole. Berechnen
 Geschrieben von Jakob Mösenbacher
 Aufgabenstellung von Martin Stettinger
 
+Link zu meinem Git Hub: [GitHub](https://github.com/jakem0e/)
+
+Link zu meiner Hochschule: [Campus 02](https://www.campus02.at)
+
 ## Exxercises
 - [Exercise 1](exercise1.md)
 - [Exercise 2](exercise1.md)
