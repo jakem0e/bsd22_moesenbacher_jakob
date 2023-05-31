@@ -25,5 +25,7 @@ public class Main {
         System.out.println(Calculator.divide(number1, number2) + "\n");
         System.out.println(BLUE + "multiply" + RESET);
         System.out.println(Calculator.multiply(number1, number2) + "\n");
+        System.out.println(BLUE + "factorial" + RESET);
+        System.out.println(Calculator.factorial(number1));
     }
 }
