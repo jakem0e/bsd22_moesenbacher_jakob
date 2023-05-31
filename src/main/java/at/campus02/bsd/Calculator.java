@@ -26,8 +26,7 @@ public class Calculator {
             return 1;
         }
         else {
-            return 0;
-            //return number1 * factorial(number1 - 1);
+            return number1 * factorial(number1 - 1);
         }
     }
 }
