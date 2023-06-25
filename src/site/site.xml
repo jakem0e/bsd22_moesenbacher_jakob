@@ -3,13 +3,15 @@
 	<version position="left"/>
 	<body>
 
+
 		<menu name="Overview">
 			<item name="Introduction" href="index.html" />
 			<item name="Test" href="test.html" />
 			<item name="Calculator" href="calculator.html" />
-			<item name="Good Style" href="good_style.md"/>
+			<item name="Good Style" href="${basedir}/src/site/markdown/good_style.md"/>
 		</menu>
 		<menu ref="reports" />
 
 	</body>
+
 </project>
