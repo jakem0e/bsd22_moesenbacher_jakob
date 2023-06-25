@@ -10,3 +10,8 @@ Um Maven Site-Dokumentation zu generieren, benötigen Sie die folgenden Vorausse
 
 Nachdem Sie diese Voraussetzungen erfüllt haben, wird Maven die Site-Dokumentation generieren und in das Verzeichnis "target/site" in Ihrem Projekt schreiben. Sie können dann den generierten Inhalt in einem Webbrowser anzeigen, indem Sie die entsprechenden Dateien öffnen (z. B. index.html).
 
+## Welche unterschiedlichen Aspekte, Konfigurationen, Informationen, usw. werden in site.xml bzw. pom.xml konfiguriert?
+In pom xpl werden die Packeges die für die Dokumentation nowendig sind hinzugefügt.
+In site.xml wird definiert wie das html file aussehen soll und was es beinhalten soll.
+
+
